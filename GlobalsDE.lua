@@ -16,29 +16,29 @@ function CreateLocalizationInfo()
 	Strings.PluginEscDesable = "Escape-Taste deaktiviert";
 	Strings.PluginAltEnable = "Alt-Taste aktiviert";
 	Strings.PluginAltDesable = "Alt-Taste deaktiviert";
-	Strings.PluginToggleOn = "Fenster aktivieren";
-	Strings.PluginToggleOff = "Fenster deaktivieren";
-	Strings.PluginEscIconOn = "Zeige das Symbol an";
-	Strings.PluginEscIconOff = "Verstecke das Symbol";
-	Strings.PluginWindowShow = "Schaufenster.";
-	Strings.PluginWindowHide = "Verstecke das Fenster.";
+	Strings.PluginToggleOn = "Fenster wird angezeigt";
+	Strings.PluginToggleOff = "Fenster wird ausgeblendet";
+	Strings.PluginEscIconOn = "Symbol wird angezeigt";
+	Strings.PluginEscIconOff = "Symbol wird ausgeblendet";
+	Strings.PluginWindowShow = "Fenster wird angezeigt";
+	Strings.PluginWindowHide = "Fenster wird ausgeblendet";
 	Strings.PluginDateUpdate = "03.12.2023";
 	------------------------------------------------------------------------------------------
 	-- help --
 	------------------------------------------------------------------------------------------
 	Strings.PluginHelp1 = "\n\nListe der Befehle:\n";
-	Strings.PluginHelp2 = "/WTP help - Hilfefenster anzeigen.\n";
-	Strings.PluginHelp3 = "/WTP show - Fenster anzeigen.\n";
-	Strings.PluginHelp4 = "/WTP hide - Fenster verbergen.\n";
-	Strings.PluginHelp5 = "/WTP options - Optionsfenster anzeigen.\n";
-	Strings.PluginHelp6 = "/WTP esc - Escape-Taste aktivieren oder deaktivieren.\n";
-	Strings.PluginHelp7 = "/WTP alt - Alt-Taste aktivieren oder deaktivieren, um das Symbol zu verschieben.\n";
-	Strings.PluginHelp8 = "/WTP toggle - Fenster aktivieren- und deaktivieren.\n";
-	Strings.PluginHelp9 = "/WTP icon - Symbol ein-oder ausblenden.\n\n";
-	Strings.PluginHelp10 = "Klickt auf den Namen einer Region, um die Karte der Region zu öffnen\n";
-	Strings.PluginHelp11 = "Mit UMSCHALT + Klicken auf das Hauptsymbol, das Optionsfenster anzeigen\n";
-	Strings.PluginHelp12 = "Mit Klick auf das kleine Taschen-Symbol, könnt Ihr sammelbare Materialien in der Umgebung anzeigen.\n";
-	Strings.PluginCloseButton = "Fenster schließen";
+	Strings.PluginHelp2 = "/wtp help - Zeigt das Hilfefenster an.\n";
+	Strings.PluginHelp3 = "/wtp show - Zeigt das Fenster an.\n";
+	Strings.PluginHelp4 = "/wtp hide - Blendet das Fenster aus.\n";
+	Strings.PluginHelp5 = "/wtp options - Zeigt die Optionen an.\n";
+	Strings.PluginHelp6 = "/wtp esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.\n";
+	Strings.PluginHelp7 = "/wtp alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+	Strings.PluginHelp8 = "/wtp toggle - Fenster anzeigen/ausblenden.\n";
+	Strings.PluginHelp9 = "/wtp icon - Symbol anzeigen/ausblenden.\n\n";
+	Strings.PluginHelp10 = "Klicke auf den Namen einer Region, um die Karte der Region zu \195\182ffnen.\n";
+	Strings.PluginHelp11 = "Mit Umschalt + Klick auf das Symbol werden die Optionen angezeigt.\n";
+	Strings.PluginHelp12 = "Klicke auf das kleine Taschen-Symbol, um die sammelbaren Materialien in der Region anzuzeigen.\n";
+	Strings.PluginCloseButton = "Fenster schlie\195\159en";
 	------------------------------------------------------------------------------------------
 	-- farm window --
 	------------------------------------------------------------------------------------------
@@ -61,7 +61,7 @@ function CreateLocalizationInfo()
 	Strings.PluginProfTier3 = "Experte";
 	Strings.PluginProfTier4 = "Virtuose";
 	Strings.PluginProfTier5 = "Meister";
-	Strings.PluginProfTier6 = "Überragend";
+	Strings.PluginProfTier6 = "\195\156berragend";
 	Strings.PluginProfTier7 = "Westfold";
 	Strings.PluginProfTier8 = "Ost-Emnet";
 	Strings.PluginProfTier9 = "West-Emnet";
@@ -75,11 +75,11 @@ function CreateLocalizationInfo()
 	-- options window --
 	------------------------------------------------------------------------------------------
 	Strings.PluginOptionsText = "WhereToPlay Optionen";
-	Strings.PluginOption1 = "Sammelmaterial Stufe anzeigen";
-	Strings.PluginOption2 = "Symbole anzeigen";
+	Strings.PluginOption1 = "Stufe der sammelbaren Materialien anzeigen";
+	Strings.PluginOption2 = " Stufe anzeigen";
 	Strings.PluginOption3 = "Weltinstanzen anzeigen";
-	Strings.PluginOptionValidate = "Änderungen überprüfen";
-	Strings.PluginOptionShowWindow = "Optionsfenster anzeigen";
+	Strings.PluginOptionValidate = "Speichern";
+	Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
 	------------------------------------------------------------------------------------------
 	-- zones --
 	------------------------------------------------------------------------------------------
