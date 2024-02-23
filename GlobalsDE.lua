@@ -204,7 +204,7 @@ function CreateLocalizationInfo()
 		zones114 = {mapHex =  0x411e9a42, texte = "Minas Morgul", lvl = "126 - 130", souCat = true},
 		zones115 = {mapHex =  0x411ee769, texte = "Quellen des Langflut", lvl = "130", souCat = false},
 		zones116 = {mapHex =  0x411fb86f, texte = "\195\132ltestental", lvl = "130", souCat = false},
-		zones117 = {mapHex =  0x41008133, texte = "Ettennöden (PvMP)", lvl = "130", souCat = false},
+		zones117 = {mapHex =  0x41008133, texte = "Ettenn\195\182den (PvMP)", lvl = "130", souCat = false},
 		zones118 = {mapHex =  0x41162479, texte = "Die Spaltung Osgiliaths (PvMP)", lvl = "130", souCat = false},
 		zones119 = {mapHex =  0x4121166a, texte = "Berg Gundabad", lvl = "130 - 140", souCat = false},
 		zones120 = {mapHex =  0x4121166f, texte = "Bingen des Gundabad", lvl = "130 - 131", souCat = true},
