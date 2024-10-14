@@ -213,7 +213,7 @@ function CreateLocalizationInfo()
 		zones124 = {mapHex =  0x41211668, texte = "C\195\162r Bronach", lvl = "135 - 136", souCat = true},
 		zones125 = {mapHex =  0x41211670, texte = "Gloomingtarn", lvl = "137 - 138", souCat = true},
 		zones126 = {mapHex =  0x4121166b, texte = "Clovengap", lvl = "138 - 139", souCat = true},
-		zones127 = {mapHex =  0x4121166e, texte = "Tassau-terres", lvl = "139 - 140", souCat = true},
+		zones127 = {mapHex =  0x4121166e, texte = "Welkin-lofts", lvl = "139 - 140", souCat = true},
 		zones128 = {mapHex =  0x41231343, texte = "King's Gondor", lvl = "140 - 143", souCat = true},
 		zones129 = {mapHex =  0x4124848f, texte = "Outer Gondor", lvl = "143 - 145", souCat = true},
 		zones130 = {mapHex =  0x41248399, texte = "The Shield Isles", lvl = "145 - 147", souCat = true},
