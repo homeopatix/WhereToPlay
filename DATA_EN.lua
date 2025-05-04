@@ -336,8 +336,7 @@
 							"Page of Gondorian Parchment",
 							"Cracked Rhi Helvarch Sigil"};
 	datasOreNamesTier7 = {"Chunk of Calenard Skarn",
-							"Chunk of High-grade ",
-							"Calenard Skarn (rare) ",
+							"Chunk of High-grade Calenard Skarn (rare)",
 							"Green Garnet",
 							"Cracked Rhi Helvarch Sigil"};
 	datasWoodNamesTier7 = {"Log of Birch Wood",
@@ -387,8 +386,7 @@
 							"Piece of Eastemnet Sealed Wax",
 							"Tarnished Crest of Rohan"};
 	datasOreNamesTier8 = {"Chunk of Riddermark Skarn",
-							"Chunk of High-grade ",
-							"Riddermark Skarn (rare) ",
+							"Chunk of High-grade Riddermark Skarn (rare) ",
 							"Red Agate",
 							"Tarnished Crest of Rohan"};
 	datasWoodNamesTier8 = {"Log of Oak Wood",
@@ -397,7 +395,7 @@
 							"Tarnished Crest of Rohan"};
 	datasHideNamesTier8 = {"Riddermark Hide"};
 
-	datasRareNamesTier8 = {"Embl\195\168me du Rohan ternis",
+	datasRareNamesTier8 = {"Tarnished Crest of Rohan",
 							"Tarnished Symbol of Celebrimbor",
 							"Tarnished Symbol of the Elder King",
 							"Mooncandle",
@@ -439,8 +437,7 @@
 							"Piece of Westemnet Sealed Wax",
 							"Emerald Shard"};
 	datasOreNamesTier9 = {"Chunk of Eorlingas Skarn",
-							"Chunk of High-grade ",
-							"Eorlingas Skarn (rare) ",
+							"Chunk of High-grade Eorlingas Skarn (rare) ",
 							"Emerald",
 							"Emerald Shard"};
 	datasWoodNamesTier9 = {"Log of Walnut Wood",
