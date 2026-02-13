@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1138</Id>
+  <Name>WhereToPlay</Name>
+  <Version>1.33</Version>
+  <Author>Homeopatix</Author>
+ <Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+WhereToPlay est un petit plugin pour avoir une vision rapide de zones du jeu de votre niveau
+Vous pouvez cliquer sur le nom d'une region pour afficher cette region
+Vous devez pressez la touche ALT pour deplacer l'icone
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+WhereToPlay is a small plugin to have a quick view of areas of the game at your level
+You can click on the name of a region to display that region
+You must press the ALT key to move the icon
+
+DESCRIPTION (Deutsch)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+WhereToPlay ist ein kleines Plugin, mit dem Sie schnell einen Uberblick uber Bereiche des Spiels auf Ihrem Level erhalten
+Sie konnen auf den Namen einer Region klicken, um diese Region anzuzeigen
+Sie mussen die ALT-Taste drucken, um das Symbol zu verschieben
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/WTP show -- montre la fenetre
+/WTP hide -- cache la fenetre
+/WTP esc - active ou desactive la touche escape
+/WTP options - affiche la fenetre d'options
+/WTP toggle - Basculer la fenetre
+/WTP icon - Affiche ou masque l'icone
+
+(English)
+Shortcut available
+/WTP show - show the window
+/WTP hide - hide the window
+/WTP esc - activate or deactivate the escape key
+/WTP options - Display the options window
+/WTP toggle - Toggle window
+/WTP icon - Display or hide the icon
+
+(Deutsch)
+Verknupfung verfugbar
+/WTP show - zeige das Fenster
+/WTP Hide - Verstecke das Fenster
+/WTP esc - Aktivieren oder deaktivieren Sie die Escape-Taste
+/WTP options - Zeigen Sie das Optionsfenster an
+/WTP toggle - Fenster umschalten
+/WTP icon - Symbol ein-oder ausblenden
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1138</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1138</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\WhereToPlay.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>
