@@ -62,46 +62,68 @@ Il vous indique **dans quelle région du monde jouer en fonction de votre niveau
 
 # 🧩 Installation
 
-1. Télécharger le plugin depuis LOTROInterface  
-2. Extraire le dossier `WhereToPlay`
-3. Copier dans :
+1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
+2.  Extraire le dossier.
+3.  Copier le dossier `AltHolic` dans :
 
-Documents\The Lord of the Rings Online\Plugins\Homeopatix
+    Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
-4. En jeu :
+4.  En jeu :
+    
+    /plugins load AltHolic
 
-```
-/plugins load WhereToPlay
-```
+------------------------------------------------------------------------
 
----
+# 💾 Données & Synchronisation
 
-# 💾 Données
+Les paramètres sont sauvegardés automatiquement à chaque
+connexion/déconnexion.
 
-Les paramètres sont sauvegardés automatiquement.
+Les fichiers sont enregistrés dans :
 
-Emplacement :
-Documents\The Lord of the Rings Online\PluginData\<Compte>\<Serveur>\<Personnage>
+    Documents\The Lord of the Rings Online\PluginData\<Compte>\<Serveur>\<Personnage>
 
----
+------------------------------------------------------------------------
+
+# 🏗️ Architecture
+
+-   Langage : **Lua**
+-   Type : Plugin LOTRO
+-   Stockage : Données locales (PluginData)
+-   Compatibilité : Toutes versions LOTRO récentes
+
+------------------------------------------------------------------------
 
 # ❗ Requirements / Besoins / Bedürfnisse
 
-## 🇫🇷 Besoins
-Vous devez avoir installé le package Turbine.
+## 🇫🇷 !!! Besoins !!!
 
-## 🇬🇧 Needs
-You need to have the Turbine package installed.
+Vous devez avoir installé le package **Turbine**.\
+Vous pouvez le télécharger à cette adresse : **[ICI](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
-## 🇩🇪 Bedürfnisse
-Sie müssen das Turbine-Paket installiert haben.
+------------------------------------------------------------------------
 
----
+## 🇬🇧 !!! Needs !!!
+
+You need to have the **Turbine package** installed.\
+You can download it at this address: **[HERE](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
+
+## 🇩🇪 !!! Bedürfnisse !!!
+
+Sie müssen das **Turbine-Paket** installiert haben.\
+Sie können es unter dieser Adresse herunterladen: **[HIER](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
+
+------------------------------------------------------------------------
 
 # 📜 License
 
-MIT License
+This project is licensed under the MIT License -- see the LICENSE file
+for details.
 
----
+------------------------------------------------------------------------
+
+# 👤 Auteur
 
 Homeopatix
