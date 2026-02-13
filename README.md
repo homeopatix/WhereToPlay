@@ -64,13 +64,13 @@ Il vous indique **dans quelle région du monde jouer en fonction de votre niveau
 
 1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
 2.  Extraire le dossier.
-3.  Copier le dossier `AltHolic` dans :
+3.  Copier le dossier `WhereToPlay` dans :
 
     Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
     
-    /plugins load AltHolic
+    /plugins load WhereToPlay
 
 ------------------------------------------------------------------------
 
