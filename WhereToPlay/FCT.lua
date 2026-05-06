@@ -16,7 +16,7 @@ function UpdateLvl()
 		settings["playerLvl"]["value"] = curentLvl;
 		WhereToPlay:SetVisible(false);
 		CreateMainWindow();
-		WhereToPlay:SetVisible(true);
+		WhereToPlay:SetVisible(settings["isWindowVisible"]["isWindowVisible"]);
 	end
 end
 ------------------------------------------------------------------------------------------
