@@ -1,5 +1,16 @@
 # 📜 Changelog
 
+## V1.33
+
+### 🇫🇷 Français
+Mise à jour de la commande qui cache l'icon
+
+### 🇬🇧 English
+Updated the command that hides the icon
+
+### 🇩🇪 Deutsch
+Der Befehl, der das Symbol ausblendet, wurde aktualisiert.
+
 ---
 
 ## V1.32
